@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://johnny-detailing.github.io/sitemap.xml
